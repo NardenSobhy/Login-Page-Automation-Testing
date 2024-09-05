@@ -12,3 +12,6 @@
     <li><strong>Selenium WebDriver:</strong> For automating browser interactions and verifying login functionality.</li>
     <li><strong>TestNG:</strong> Used for managing, organizing, and running test cases.</li>
 </ul>
+
+<h2 id="license">License</h2>
+<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
